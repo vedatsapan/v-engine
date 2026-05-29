@@ -1,0 +1,22 @@
+# Environments
+.env
+.env.local
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Local Databases
+*.db
+*.sqlite
+
+# Local Logs and temporary files
+*.log
+scratch/
+missions/
+telephony/campaign_contacts.json
+.antigravity/
+.wwebjs_auth/
+.wwebjs_cache/
+.DS_Store
